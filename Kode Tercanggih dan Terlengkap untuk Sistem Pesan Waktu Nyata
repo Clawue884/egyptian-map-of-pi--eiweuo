@@ -1,0 +1,43 @@
+Mengapa Penting?
+
+Sistem pesan real-time memungkinkan komunikasi langsung antara pedagang dan pembeli di Peta Pi Mesir, sehingga mereka dapat:
+✅ Bernegosiasi harga dengan cepat
+✅ Membahas detail produk tanpa hambatan
+✅ Memastikan pengalaman pengguna lebih lancar dan interaktif
+
+
+---
+
+📂 Struktur Direktori
+
+/pi-chat
+   ├── config/
+   │   ├── dbConfig.js
+   ├── models/
+   │   ├── userModel.js
+   │   ├── chatModel.js
+   ├── controllers/
+   │   ├── chatController.js
+   ├── services/
+   │   ├── chatService.js
+   ├── routes/
+   │   ├── chatRoutes.js
+   ├── index.js
+   ├── socket.js
+   ├── package.json
+
+
+---
+
+
+
+
+💡 Kelebihan Kode Ini
+
+✅ Real-time dengan WebSocket menggunakan Socket.io.
+✅ Terintegrasi dengan database MongoDB untuk penyimpanan riwayat chat.
+✅ Keamanan tinggi dengan isolasi pesan per pengguna.
+✅ Efisiensi tinggi dengan caching dan model event-driven.
+✅ Dapat dikembangkan ke fitur tambahan seperti notifikasi push, enkripsi pesan, dan chat bot AI.
+
+Kode ini memberikan pengalaman komunikasi langsung, cepat, dan aman antara pedagang dan pembeli di Peta Pi Mesir!
