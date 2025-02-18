@@ -1,0 +1,35 @@
+🛠️ Mengapa Penting?
+
+Pemrosesan pembayaran berbasis Pi Network memungkinkan transaksi yang aman, cepat, dan tanpa gesekan dengan Pi Coin. Sistem ini meningkatkan adopsi Pi sebagai alat pembayaran utama, memudahkan pedagang menerima pembayaran tanpa perantara pihak ketiga.
+
+
+Fitur Utama
+
+✅ Integrasi SDK Pi Network untuk autentikasi dan transaksi.
+✅ Sistem Smart Payment Gateway dengan konfirmasi otomatis.
+✅ Webhook untuk notifikasi real-time kepada pedagang dan pembeli.
+✅ Keamanan tinggi dengan verifikasi tanda tangan digital.
+✅ Penyimpanan transaksi dengan MongoDB dan Redis untuk kecepatan akses.
+
+
+---
+
+📂 Struktur Direktori
+
+/pi-payments
+   ├── config/
+   │   ├── piConfig.js
+   ├── services/
+   │   ├── paymentService.js
+   │   ├── verificationService.js
+   ├── controllers/
+   │   ├── paymentController.js
+   ├── models/
+   │   ├── transactionModel.js
+   ├── routes/
+   │   ├── paymentRoutes.js
+   ├── index.js
+   └── package.json
+
+
+---
