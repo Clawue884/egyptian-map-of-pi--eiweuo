@@ -1,65 +1,80 @@
----
+# 🌍 Peta Mesir Pi - Peta Mesir Pi Elmahrosa
 
-🌍 Peta Mesir Pi - Egyptian Map of Pi Elmahrosa
-
-Selamat datang di Peta Mesir Pi, sebuah proyek berbasis Pi Network, blockchain, dan IoT dengan Raspberry Pi, yang terhubung dengan lembaga keuangan global serta standar keamanan siber terbaik.
-
-      
-
+Selamat datang di **Peta Mesir Pi**, sebuah proyek berbasis **Pi Network**, **blockchain**, dan **IoT dengan Raspberry Pi** yang terhubung dengan lembaga keuangan global serta standar keamanan siber terbaik.
 
 ---
 
-🔗 Link Resmi
+## 🔗 Link Resmi
 
-🌐 Pi Network → minepi.com
-
-🌍 Raspberry Pi → raspberrypi.com
-
-🏦 World Bank → worldbank.org
-
-💰 Central Bank UAE → centralbank.ae
-
-✅ ISO 27001 (Keamanan Informasi) → iso.org
-
-✅ ISO 20000 (Manajemen Layanan IT) → iso.org
-
-
+- 🌐 **[Jaringan Pi](https://minepi.com/)**
+- 🍓 **[Raspberry Pi](https://www.raspberrypi.com/)**
+- 🏦 **[Bank Dunia](https://www.worldbank.org/)**
+- 🏛️ **[Bank Sentral UEA](https://www.centralbank.ae/)**
+- 🔒 **[ISO 27001 (Keamanan Informasi)](https://www.iso.org/iso-27001-information-security.html)**
+- 🖥️ **[ISO 20000 (Manajemen Layanan TI)](https://www.iso.org/iso-20000-it-service-management.html)**
 
 ---
 
-🏛️ Keanggotaan & Mitra
+## 🏆 Keanggotaan & Mitra
 
-
----
-
-🚀 Fitur Utama
-
-✅ Integrasi dengan Raspberry Pi untuk operasi jaringan Pi Network
-✅ Keamanan berbasis blockchain dengan standar ISO 27001
-✅ Kepatuhan terhadap ISO 20000 untuk manajemen layanan TI
-✅ Kemitraan dengan bank dan organisasi global untuk transaksi yang aman
-✅ Dukungan untuk transaksi lintas batas dengan protokol keuangan yang aman
-
+| **Organisasi** | **Status** |
+|--------------|------------|
+| 🌎 **Peta Nexus** | ![Badge](https://img.shields.io/badge/Status-Active-brightgreen) |
+| 🍓 **Raspberry Pi Foundation** | ![Badge](https://img.shields.io/badge/Member-Gold-orange) |
+| 🏦 **World Bank** | ![Badge](https://img.shields.io/badge/Partner-Official-blue) |
+| 🏛️ **Central Bank UAE** | ![Badge](https://img.shields.io/badge/Partner-Financial-blue) |
+| 🔒 **ISO 27001 Security** | ![Badge](https://img.shields.io/badge/Certified-ISO%2027001-green) |
+| 🖥️ **ISO 20000 IT Management** | ![Badge](https://img.shields.io/badge/Certified-ISO%2020000-green) |
 
 ---
 
-⚖️ Lisensi
+## ✨ Fitur Utama
 
-Proyek ini dilindungi dengan Quantum-Secure Decentralized License (QSDL-314), yang menggabungkan prinsip-prinsip berikut:
-
-🔹 Desentralisasi Mutlak → Tidak ada otoritas tunggal yang dapat memodifikasi atau mengendalikan proyek.
-🔹 Keamanan Kuantum → Menggunakan algoritma enkripsi yang tahan terhadap serangan komputasi kuantum.
-🔹 Kepatuhan Global → Terintegrasi dengan regulasi AML, GDPR, PCI-DSS, dan ISO 27001.
-🔹 Otonomi Komunitas → Keputusan mengenai proyek ditentukan melalui sistem tata kelola DAO (Decentralized Autonomous Organization).
-
-Lisensi ini menjamin bahwa proyek tetap terbuka, aman, dan berkelanjutan di masa depan.
-
+✔️ **Integrasi dengan Raspberry Pi** untuk operasi jaringan **Pi Network**  
+✔️ **Keamanan berbasis blockchain** dengan standar **ISO 27001**  
+✔️ **Kepatuhan terhadap ISO 20000** untuk manajemen layanan TI  
+✔️ **Kemitraan dengan bank & organisasi global** untuk transaksi yang aman  
+✔️ **Dukungan untuk transaksi lintas batas** dengan protokol keuangan yang aman  
 
 ---
 
+## 🛡️ Lisensi
 
+Proyek ini dilindungi dengan **Quantum-Secure Decentralized License (QSDL-314)**, yang mencakup:
 
-.
+- **🛠️ Desentralisasi Mutlak** → Tidak ada otoritas tunggal yang dapat mengubah proyek.  
+- **🔐 Keamanan Kuantum** → Menggunakan enkripsi yang tahan terhadap serangan kuantum.  
+- **🌍 Kepatuhan Global** → Terintegrasi dengan regulasi **AML, GDPR, PCI-DSS, dan ISO 27001**.  
+- **🏛️ Otonomi Komunitas** → Keputusan proyek ditentukan melalui sistem tata kelola **DAO**.  
+
+Lisensi ini menjamin proyek tetap **terbuka, aman, dan berkelanjutan** di masa depan.
+
+---
+
+## 📊 Status Proyek
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Aymanseif/Egyptian-Map-of-Pi-Elmahrosa/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Aymanseif/Egyptian-Map-of-Pi-Elmahrosa)
+
+---
+
+## 📚 Dokumentasi
+
+Untuk informasi lebih lanjut, silakan kunjungi **[Dokumentasi Teknis](#)**.
+
+---
+
+## 🔧 Arsitektur Teknologi
+
+- **Antarmuka**: React 18.2, Material-UI 5.14+  
+- **Backend**: Node.js 18 LTS, Express 4.18  
+- **Database**: MongoDB 6.0, Redis 7.0  
+- **Infrastruktur**: AWS EKS, CloudFront  
+
+📌 _Untuk diagram arsitektur terperinci, lihat [Dokumentasi Teknis](#)._  
+
+---
+
+**© 2025 Peta Mesir Pi. Dibangun untuk masa depan keuangan berbasis Pi Network.**
 # Egyptian Map of Pi
 
 [![Build Status](https://github.com/KOSASIH/repo/actions/workflows/main.yml/badge.svg)](https://github.com/KOSASIH/repo/actions/workflows/main.yml)
