@@ -1,0 +1,23 @@
+Fitur Utama
+
+✅ Pencarian Lokasi Terdekat: Menampilkan pedagang dalam radius tertentu.
+✅ Rekomendasi Berbasis AI: Menyesuaikan pencarian berdasarkan preferensi pengguna.
+✅ Geofencing & Notifikasi: Memberi tahu pengguna jika mereka memasuki area dengan banyak pedagang Pi.
+✅ Integrasi AWS Location & Google Maps API: Untuk meningkatkan keakuratan data lokasi.
+
+
+
+
+/geo-location
+   ├── config/
+   │   ├── awsConfig.js
+   │   ├── googleMapsConfig.js
+   ├── services/
+   │   ├── locationService.js
+   │   ├── geofencingService.js
+   ├── controllers/
+   │   ├── locationController.js
+   ├── models/
+   │   ├── merchantModel.js
+   ├── index.js
+   └── package.json
