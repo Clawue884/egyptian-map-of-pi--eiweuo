@@ -77,7 +77,7 @@ Untuk informasi lebih lanjut, silakan kunjungi **[Dokumentasi Teknis](#)**.
 **© 2025 Peta Mesir Pi. Dibangun untuk masa depan keuangan berbasis Pi Network.**
 # Egyptian Map of Pi
 
-[![Build Status](https://github.com/KOSASIH/repo/actions/workflows/main.yml/badge.svg)](https://github.com/KOSASIH/repo/actions/workflows/main.yml)
+[![[![Build Status](https://circleci.com/gh/user/repo.svg?style=shield)](https://circleci.com/gh/user/repo)
 [![Test Coverage](https://codecov.io/gh/KOSASIH/repo/branch/main/graph/badge.svg)](https://codecov.io/gh/owner/repo)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](CHANGELOG.md)
